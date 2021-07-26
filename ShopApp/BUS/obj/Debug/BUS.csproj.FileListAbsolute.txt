@@ -1,0 +1,11 @@
+A:\Desktop\ShopApp\BUS\bin\Debug\BUS.dll
+A:\Desktop\ShopApp\BUS\bin\Debug\BUS.pdb
+A:\Desktop\ShopApp\BUS\bin\Debug\DAO.dll
+A:\Desktop\ShopApp\BUS\bin\Debug\DTO.dll
+A:\Desktop\ShopApp\BUS\bin\Debug\DAO.pdb
+A:\Desktop\ShopApp\BUS\bin\Debug\DTO.pdb
+A:\Desktop\ShopApp\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+A:\Desktop\ShopApp\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+A:\Desktop\ShopApp\BUS\obj\Debug\BUS.csproj.CopyComplete
+A:\Desktop\ShopApp\BUS\obj\Debug\BUS.dll
+A:\Desktop\ShopApp\BUS\obj\Debug\BUS.pdb

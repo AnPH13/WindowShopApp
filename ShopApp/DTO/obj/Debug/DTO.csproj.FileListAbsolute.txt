@@ -1,0 +1,6 @@
+A:\Desktop\ShopApp\DTO\bin\Debug\DTO.dll
+A:\Desktop\ShopApp\DTO\bin\Debug\DTO.pdb
+A:\Desktop\ShopApp\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+A:\Desktop\ShopApp\DTO\obj\Debug\DTO.dll
+A:\Desktop\ShopApp\DTO\obj\Debug\DTO.pdb
+A:\Desktop\ShopApp\DTO\obj\Debug\DTO.csprojAssemblyReference.cache

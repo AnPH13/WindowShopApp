@@ -1,0 +1,9 @@
+A:\Desktop\ShopApp\DAO\bin\Debug\DAO.dll
+A:\Desktop\ShopApp\DAO\bin\Debug\DAO.pdb
+A:\Desktop\ShopApp\DAO\bin\Debug\DTO.dll
+A:\Desktop\ShopApp\DAO\bin\Debug\DTO.pdb
+A:\Desktop\ShopApp\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+A:\Desktop\ShopApp\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+A:\Desktop\ShopApp\DAO\obj\Debug\DAO.csproj.CopyComplete
+A:\Desktop\ShopApp\DAO\obj\Debug\DAO.dll
+A:\Desktop\ShopApp\DAO\obj\Debug\DAO.pdb
